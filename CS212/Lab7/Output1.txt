@@ -1,0 +1,40 @@
+********************************************************************************
+                             Binghamton University
+                       Program written by: Walter Schutz
+                                     Lab 7
+********************************************************************************
+Customer ID		Reason
+--------------------------------------------------------------------------------
+	1		AWESOME SERVICE! Can’t wait to come back.	
+	2		Smiling customer will be happy to return	
+	3		Checkout was a breeze! 	
+	4		AWESOME SERVICE! Can’t wait to come back.	
+	5		Got what I needed, very good store! 	
+	6		Got what I needed, very good store! 	
+	8		Got what I needed, very good store! 	
+	7		Smiling customer will be happy to return	
+	10		Got what I needed, very good store! 	
+	9		Checkout was a breeze! 	
+	11		AWESOME SERVICE! Can’t wait to come back.	
+	13		Checkout was a breeze! 	
+	12		Checkout was a breeze! 	
+	14		Checkout was a breeze! 	
+	15		Smiling customer will be happy to return	
+	16		Checkout was a breeze! 	
+	17		Got what I needed, very good store! 	
+	19		AWESOME SERVICE! Can’t wait to come back.	
+	20		AWESOME SERVICE! Can’t wait to come back.	
+	18		Smiling customer will be happy to return	
+	21		AWESOME SERVICE! Can’t wait to come back.	
+	22		AWESOME SERVICE! Can’t wait to come back.	
+	23		Got what I needed, very good store! 	
+	24		AWESOME SERVICE! Can’t wait to come back.	
+	26		Smiling customer will be happy to return	
+	27		Smiling customer will be happy to return	
+	25		Got what I needed, very good store! 	
+	30		AWESOME SERVICE! Can’t wait to come back.	
+	28		AWESOME SERVICE! Can’t wait to come back.	
+	32		AWESOME SERVICE! Can’t wait to come back.	
+	34		Smiling customer will be happy to return	
+	35		AWESOME SERVICE! Can’t wait to come back.	
+	35		AWESOME SERVICE! Can’t wait to come back.	

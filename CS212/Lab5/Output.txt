@@ -1,0 +1,418 @@
+********************************************************************************
+                             Binghamton University
+                       Program written by: Walter Schutz
+                                     Lab 5
+********************************************************************************
+--------------------------------------------------------------------------------
+                                     List 1
+--------------------------------------------------------------------------------
+Title: Elevation
+ Author: King,Stephen
+ Company: Scribner
+ Year: 2018 
+ISBN: 9781982102319
+ Cost: 10.00 
+
+Title: Broken Things
+ Author: Oliver,Lauren
+ Company: HarperCollins Publishers Ltd
+ Year: 2018 
+ISBN: 9780062224156
+ Cost: 9.99 
+
+Title: The Dreamers
+ Author: Walker,Karen
+ Company: Random House Publishing
+ Year: 2019 
+ISBN: 9780812994162
+ Cost: 17.40 
+
+Title: Nine Perfect Strangers
+ Author: Moriarty,Liane
+ Company: Flatiron Books
+ Year: 2018 
+ISBN: 9781250069849
+ Cost: 16.40 
+
+Title: Dark Sacred Night
+ Author: Connelly,Michael
+ Company: Grand Central Publishing
+ Year: 2019 
+ISBN: 9781538731758
+ Cost: 12.47 
+
+Title: No Exit
+ Author: Adams,Taylor
+ Company: HarperCollins Publishers
+ Year: 2019 
+ISBN: 9780062875679
+ Cost: 10.20 
+
+Title: Net Force
+ Author: Clancy,Tom
+ Company: Berkley
+ Year: 1999 
+ISBN: 9780425161722
+ Cost: 6.90 
+
+Title: The Silent Wife
+ Author: Fisher,Kerry
+ Company: Bookouture
+ Year: 2017 
+ISBN: 9781786811264
+ Cost: 7.70 
+
+Title: Honeymoon
+ Author: Patterson,James
+ Company: Headline
+ Year: 2011 
+ISBN: 9780755349517
+ Cost: 5.45 
+
+Title: Just After Sunset
+ Author: King,Stephen
+ Company: Simon & Schuster
+ Year: 2008 
+ISBN: 9780743575317
+ Cost: 20.00 
+
+Title: Turning Point
+ Author: Steel,Danielle
+ Company: Delacorte Press
+ Year: 2019 
+ISBN: 9780399179358
+ Cost: 12.89 
+
+Title: The Truths We Hold: An American Journey
+ Author: Harris,Kamala
+ Company: Penguin Press
+ Year: 2019 
+ISBN: 9780525560715
+ Cost: 11.43 
+
+Title: The First Conspiracy
+ Author: Meltzer,Brad
+ Company: Flatiron Books
+ Year: 2019 
+ISBN: 9781250130334
+ Cost: 10.00 
+
+Title: Target:Alex Cross
+ Author: Patterson,James
+ Company: Little, Brown and Company
+ Year: 2018 
+ISBN: 9780316273947
+ Cost: 18.99 
+
+--------------------------------------------------------------------------------
+                                     List 2
+--------------------------------------------------------------------------------
+Title: Liar Liar
+ Author: Patterson,James
+ Company: Little, Brown and Company
+ Year: 2019 
+ISBN: 9780316418256
+ Cost: 11.66 
+
+Title: Red Rabbit
+ Author: Clancy,Tom
+ Company: Penguin Publishing Group 
+ Year: 2003 
+ISBN: 9781101002339
+ Cost: 5.40 
+
+Title: Then She Was Gone
+ Author: Jewell,Lisa
+ Company: Arrow Books Ltd.
+ Year: 2017 
+ISBN: 9781784756253
+ Cost: 7.45 
+
+Title: It's Not Supposed to Be This Way
+ Author: TerKeurst,Lysa
+ Company: Thomas Nelson
+ Year: 2018 
+ISBN: 9780718039851
+ Cost: 9.59 
+
+Title: The Cardinal of the Kremlin
+ Author: Clancy,Tom
+ Company: HarperCollins Publishers Ltd
+ Year: 1989 
+ISBN: 9780006174547
+ Cost: 6.25 
+
+Title: Gray Mountain
+ Author: Grisham,John
+ Company: Dell
+ Year: 2014 
+ISBN: 9780385539166
+ Cost: 8.12 
+
+Title: Under Fire
+ Author: Clancy,Tom
+ Company: G.P. Putnam's Sons 
+ Year: 2015 
+ISBN: 9780399175756
+ Cost: 22.10 
+
+Title: The Only Woman in the Room
+ Author: Benedick,Marie
+ Company: Sourcebooks
+ Year: 2019 
+ISBN: 9781492666875
+ Cost: 12.50 
+
+Title: The House Next Door
+ Author: Patterson,James
+ Company: Grand Central Publishing
+ Year: 2019 
+ISBN: 9781478969761
+ Cost: 8.88 
+
+Title: Patriot Games
+ Author: Clancy,Tom
+ Company: HarperCollins Publishers Ltd
+ Year: 1988 
+ISBN: 9780006174554
+ Cost: 7.00 
+
+Title: The Reckoning
+ Author: Grishma,John
+ Company: Hodder & Stoughton
+ Year: 2018 
+ISBN: 9781473684584
+ Cost: 9.11 
+
+Title: Ambush
+ Author: Patterson,James
+ Company: Little, Brown and Company
+ Year: 2018 
+ISBN: 9780316273985
+ Cost: 15.70 
+
+Title: Becoming
+ Author: Obama,Michelle
+ Company: Crown Publishing Group
+ Year: 2018 
+ISBN: 9781524763138
+ Cost: 24.25 
+
+Title: Rainbow Six
+ Author: Clancy,Tom
+ Company: Penguin Books Ltd
+ Year: 2013 
+ISBN: 9781405915472
+ Cost: 7.50 
+
+--------------------------------------------------------------------------------
+                              List 1 and 2 Merged
+--------------------------------------------------------------------------------
+Title: Liar Liar
+ Author: Patterson,James
+ Company: Little, Brown and Company
+ Year: 2019 
+ISBN: 9780316418256
+ Cost: 11.66 
+
+Title: Red Rabbit
+ Author: Clancy,Tom
+ Company: Penguin Publishing Group 
+ Year: 2003 
+ISBN: 9781101002339
+ Cost: 5.40 
+
+Title: Then She Was Gone
+ Author: Jewell,Lisa
+ Company: Arrow Books Ltd.
+ Year: 2017 
+ISBN: 9781784756253
+ Cost: 7.45 
+
+Title: It's Not Supposed to Be This Way
+ Author: TerKeurst,Lysa
+ Company: Thomas Nelson
+ Year: 2018 
+ISBN: 9780718039851
+ Cost: 9.59 
+
+Title: The Cardinal of the Kremlin
+ Author: Clancy,Tom
+ Company: HarperCollins Publishers Ltd
+ Year: 1989 
+ISBN: 9780006174547
+ Cost: 6.25 
+
+Title: Gray Mountain
+ Author: Grisham,John
+ Company: Dell
+ Year: 2014 
+ISBN: 9780385539166
+ Cost: 8.12 
+
+Title: Under Fire
+ Author: Clancy,Tom
+ Company: G.P. Putnam's Sons 
+ Year: 2015 
+ISBN: 9780399175756
+ Cost: 22.10 
+
+Title: The Only Woman in the Room
+ Author: Benedick,Marie
+ Company: Sourcebooks
+ Year: 2019 
+ISBN: 9781492666875
+ Cost: 12.50 
+
+Title: The House Next Door
+ Author: Patterson,James
+ Company: Grand Central Publishing
+ Year: 2019 
+ISBN: 9781478969761
+ Cost: 8.88 
+
+Title: Patriot Games
+ Author: Clancy,Tom
+ Company: HarperCollins Publishers Ltd
+ Year: 1988 
+ISBN: 9780006174554
+ Cost: 7.00 
+
+Title: The Reckoning
+ Author: Grishma,John
+ Company: Hodder & Stoughton
+ Year: 2018 
+ISBN: 9781473684584
+ Cost: 9.11 
+
+Title: Ambush
+ Author: Patterson,James
+ Company: Little, Brown and Company
+ Year: 2018 
+ISBN: 9780316273985
+ Cost: 15.70 
+
+Title: Becoming
+ Author: Obama,Michelle
+ Company: Crown Publishing Group
+ Year: 2018 
+ISBN: 9781524763138
+ Cost: 24.25 
+
+Title: Rainbow Six
+ Author: Clancy,Tom
+ Company: Penguin Books Ltd
+ Year: 2013 
+ISBN: 9781405915472
+ Cost: 7.50 
+
+Title: Elevation
+ Author: King,Stephen
+ Company: Scribner
+ Year: 2018 
+ISBN: 9781982102319
+ Cost: 10.00 
+
+Title: Broken Things
+ Author: Oliver,Lauren
+ Company: HarperCollins Publishers Ltd
+ Year: 2018 
+ISBN: 9780062224156
+ Cost: 9.99 
+
+Title: The Dreamers
+ Author: Walker,Karen
+ Company: Random House Publishing
+ Year: 2019 
+ISBN: 9780812994162
+ Cost: 17.40 
+
+Title: Nine Perfect Strangers
+ Author: Moriarty,Liane
+ Company: Flatiron Books
+ Year: 2018 
+ISBN: 9781250069849
+ Cost: 16.40 
+
+Title: Dark Sacred Night
+ Author: Connelly,Michael
+ Company: Grand Central Publishing
+ Year: 2019 
+ISBN: 9781538731758
+ Cost: 12.47 
+
+Title: No Exit
+ Author: Adams,Taylor
+ Company: HarperCollins Publishers
+ Year: 2019 
+ISBN: 9780062875679
+ Cost: 10.20 
+
+Title: Net Force
+ Author: Clancy,Tom
+ Company: Berkley
+ Year: 1999 
+ISBN: 9780425161722
+ Cost: 6.90 
+
+Title: The Silent Wife
+ Author: Fisher,Kerry
+ Company: Bookouture
+ Year: 2017 
+ISBN: 9781786811264
+ Cost: 7.70 
+
+Title: Honeymoon
+ Author: Patterson,James
+ Company: Headline
+ Year: 2011 
+ISBN: 9780755349517
+ Cost: 5.45 
+
+Title: Just After Sunset
+ Author: King,Stephen
+ Company: Simon & Schuster
+ Year: 2008 
+ISBN: 9780743575317
+ Cost: 20.00 
+
+Title: Turning Point
+ Author: Steel,Danielle
+ Company: Delacorte Press
+ Year: 2019 
+ISBN: 9780399179358
+ Cost: 12.89 
+
+Title: The Truths We Hold: An American Journey
+ Author: Harris,Kamala
+ Company: Penguin Press
+ Year: 2019 
+ISBN: 9780525560715
+ Cost: 11.43 
+
+Title: The First Conspiracy
+ Author: Meltzer,Brad
+ Company: Flatiron Books
+ Year: 2019 
+ISBN: 9781250130334
+ Cost: 10.00 
+
+Title: Target:Alex Cross
+ Author: Patterson,James
+ Company: Little, Brown and Company
+ Year: 2018 
+ISBN: 9780316273947
+ Cost: 18.99 
+
+--------------------------------------------------------------------------------
+                                  List 1 Free
+--------------------------------------------------------------------------------
+This list is empty: List 1 Free
+--------------------------------------------------------------------------------
+                                  List 2 Free
+--------------------------------------------------------------------------------
+This list is empty: List 2 Free
+--------------------------------------------------------------------------------
+                               List Merged Freed
+--------------------------------------------------------------------------------
+This list is empty: List Merged Freed

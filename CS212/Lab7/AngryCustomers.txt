@@ -1,0 +1,60 @@
+********************************************************************************
+                             Binghamton University
+                       Program written by: Walter Schutz
+                                     Lab 7
+********************************************************************************
+Customer ID		Reason
+--------------------------------------------------------------------------------
+	53		I’m too busy for this! Maybe I come back later	
+	54		This store is terrible, I’m never coming back!	
+	57		Too much to do, too little time!	
+	58		<yawn> I’m too lazy to wait in line.	
+	59		Too much to do, too little time!	
+	61		I’m too busy for this! Maybe I come back later	
+	62		<yawn> I’m too lazy to wait in line.	
+	63		This store is terrible, I’m never coming back!	
+	64		Too much to do, too little time!	
+	65		This store is terrible, I’m never coming back!	
+	66		Too much to do, too little time!	
+	67		<yawn> I’m too lazy to wait in line.	
+	69		This store is terrible, I’m never coming back!	
+	71		I’m too busy for this! Maybe I come back later	
+	72		<yawn> I’m too lazy to wait in line.	
+	73		Too much to do, too little time!	
+	74		Too much to do, too little time!	
+	75		I’m too busy for this! Maybe I come back later	
+	76		Too much to do, too little time!	
+	77		<yawn> I’m too lazy to wait in line.	
+	79		<yawn> I’m too lazy to wait in line.	
+	80		<yawn> I’m too lazy to wait in line.	
+	81		This store is terrible, I’m never coming back!	
+	82		I’m too busy for this! Maybe I come back later	
+	83		I’m too busy for this! Maybe I come back later	
+	84		<yawn> I’m too lazy to wait in line.	
+	85		<yawn> I’m too lazy to wait in line.	
+	86		I’m too busy for this! Maybe I come back later	
+	87		This store is terrible, I’m never coming back!	
+	88		This store is terrible, I’m never coming back!	
+	89		I’m too busy for this! Maybe I come back later	
+	90		<yawn> I’m too lazy to wait in line.	
+	91		This store is terrible, I’m never coming back!	
+	92		Too much to do, too little time!	
+	94		<yawn> I’m too lazy to wait in line.	
+	95		<yawn> I’m too lazy to wait in line.	
+	96		<yawn> I’m too lazy to wait in line.	
+	97		This store is terrible, I’m never coming back!	
+	98		I’m too busy for this! Maybe I come back later	
+	100		I’m too busy for this! Maybe I come back later	
+	102		<yawn> I’m too lazy to wait in line.	
+	105		<yawn> I’m too lazy to wait in line.	
+	106		I’m too busy for this! Maybe I come back later	
+	107		I’m too busy for this! Maybe I come back later	
+	108		<yawn> I’m too lazy to wait in line.	
+	109		<yawn> I’m too lazy to wait in line.	
+	110		Too much to do, too little time!	
+	111		<yawn> I’m too lazy to wait in line.	
+	112		This store is terrible, I’m never coming back!	
+	113		Too much to do, too little time!	
+	118		I’m too busy for this! Maybe I come back later	
+	119		This store is terrible, I’m never coming back!	
+	120		I’m too busy for this! Maybe I come back later	

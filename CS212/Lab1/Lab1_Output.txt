@@ -1,0 +1,66 @@
+-bash-4.2$ ./Lab1.out
+
+****************************
+Binghamton University
+Walter
+Lab 1
+****************************
+
+Select a shape to calculate for area calculation:
+1. Parallelogram
+2. Trapezium
+3. Ellipse
+Enter selection: 1
+
+Enter the base and vertical height separated by a space: 2 3
+
+Shape: Parallelogram
+
+Length of the base: 2:
+Length of the height: 3:
+Area: 6.000
+******************************************************
+-bash-4.2$ ./Lab1.out
+
+****************************
+Binghamton University
+Walter
+Lab 1
+****************************
+
+Select a shape to calculate for area calculation:
+1. Parallelogram
+2. Trapezium
+3. Ellipse
+Enter selection: 2
+
+Enter the length of side A, side B, and the height separated by spaces: 1 2 3
+
+Shape: Trapezium
+
+Length of the minor axis: 1:
+Length of the major axis: 2:
+Area: 4.500
+******************************************************
+-bash-4.2$ ./Lab1.out
+
+****************************
+Binghamton University
+Walter
+Lab 1
+****************************
+
+Select a shape to calculate for area calculation:
+1. Parallelogram
+2. Trapezium
+3. Ellipse
+Enter selection: 3
+
+Enter the length of the minor and major axis separated by a space: 1 5
+
+Shape: Ellipse
+
+Length of the minor axis: 1:
+Length of the major axis: 5:
+Area: 15.700
+******************************************************
